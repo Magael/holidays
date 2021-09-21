@@ -1,0 +1,28 @@
+{
+  "name": "holidays",
+  "version": "1.0.0",
+  "description": "Holidays calendar per month and year",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "country-list": "^2.2.0",
+    "esm": "^3.2.25",
+    "figlet": "^1.5.2",
+    "ora": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magael/holidays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magael/holidays/issues"
+  },
+  "homepage": "https://github.com/Magael/holidays#readme"
+}
