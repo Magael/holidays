@@ -1,6 +1,6 @@
 {
-  "name": "holidays",
-  "version": "1.0.0",
+  "name": "@magael/holidays",
+  "version": "0.0.1",
   "description": "Holidays calendar per month and year",
   "main": "index.js",
   "dependencies": {
